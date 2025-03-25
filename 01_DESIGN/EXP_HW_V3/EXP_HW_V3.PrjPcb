@@ -373,7 +373,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document20]
-DocumentPath=..\..\04_GERBER\CAMtastic1.Cam
+DocumentPath=Project Outputs for EXP_HW_V3\CAMtastic1.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -390,7 +390,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document21]
-DocumentPath=..\..\04_GERBER\CAMtastic2.Cam
+DocumentPath=Project Outputs for EXP_HW_V3\CAMtastic2.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
