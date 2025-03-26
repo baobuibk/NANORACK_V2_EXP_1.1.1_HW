@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: EXP_V111.PcbDoc   3/25/2025  8:28:23 PM
+NCDrill File Report For: EXP_V111.PcbDoc   3/26/2025  12:50:50 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,7 +7,7 @@ ASCII RoundHoles File : EXP_V111.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.2mm (8mil)                                              Round             1062      PTH        2454.67mm (96.64inch)
+T1      0.2mm (8mil)                                              Round             1060      PTH        2452.13mm (96.54inch)
 T2      0.5mm (20mil)                                             Round             32        PTH        306.03mm (12.05inch)
 T3      0.75mm (30mil)                                            Round             42        PTH        98.00mm (3.86inch)
 T4      0.95mm (37mil)                                            Round             8         PTH        68.50mm (2.70inch)
@@ -16,6 +16,6 @@ T6      1.1mm (43mil)                                             Round         
 T7      3.3mm (130mil)                                            Round             4         PTH        265.63mm (10.46inch)
 T8      2.3mm (91mil)                                             Round             2         NPTH       47.00mm (1.85inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              1172
+Totals                                                                              1170
 
 Total Processing Time (hh:mm:ss) : 00:00:00
