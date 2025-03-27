@@ -1,11 +1,12 @@
-Output: Generates pick and place files
-Type  : Pick Place
-From  : Variant [[No Variations]] of Project [EXP_HW_V3.PrjPcb]
-   Generated File[Pick Place for EXP_V111.txt]
-   Generated File[Pick Place for EXP_V111.csv]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [EXP_HW_V3.PrjPcb]
+   Generated File[EXP_V111.TXT]
+   Generated File[EXP_V111.LDP]
+   Generated File[EXP_V111.DRR]
 
 
-Files Generated   : 2
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 3:05:21 PM On 3/26/2025
+Finished Output Generation At 11:47:15 PM On 3/27/2025
