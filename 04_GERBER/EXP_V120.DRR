@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: EXP_V120.PcbDoc   4/10/2025  3:00:49 PM
+NCDrill File Report For: EXP_V120.PcbDoc   4/10/2025  10:03:00 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,7 +7,7 @@ ASCII RoundHoles File : EXP_V120.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.2mm (8mil)                                              Round             1098      PTH        2519.55mm (99.19inch)
+T1      0.2mm (8mil)                                              Round             1098      PTH        2491.26mm (98.08inch)
 T2      0.5mm (20mil)                                             Round             32        PTH        308.38mm (12.14inch)
 T3      0.75mm (30mil)                                            Round             42        PTH        82.00mm (3.23inch)
 T4      0.95mm (37mil)                                            Round             8         PTH        68.50mm (2.70inch)
@@ -18,4 +18,4 @@ T8      2.3mm (91mil)                                             Round         
 ----------------------------------------------------------------------------------------------------------------------------------
 Totals                                                                              1208
 
-Total Processing Time (hh:mm:ss) : 00:00:01
+Total Processing Time (hh:mm:ss) : 00:00:00
