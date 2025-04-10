@@ -1,10 +1,11 @@
-Output: Report Board Stack
-Type  : Report Board Stack
-From  : Project [EXP_HW_V3.PrjPcb]
-   Generated File[EXP_V120.xls]
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [EXP_HW_V3.PrjPcb]
+   Generated File[Pick Place for EXP_V120.txt]
+   Generated File[Pick Place for EXP_V120.csv]
 
 
-Files Generated   : 1
+Files Generated   : 2
 Documents Printed : 0
 
-Finished Output Generation At 11:34:28 PM On 4/8/2025
+Finished Output Generation At 3:24:44 PM On 4/10/2025
